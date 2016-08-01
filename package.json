@@ -1,0 +1,22 @@
+{
+  "name": "@hbogs/stylelint-rules",
+  "version": "1.0.0",
+  "description": "Useful stylelint rules.",
+  "author": "Håkon Bogsrud",
+  "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/hbogs/stylelint-rules"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "peerDependencies": {
+    "stylelint": "^7.0.0"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ]
+}
