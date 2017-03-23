@@ -76,8 +76,6 @@ module.exports = {
     "no-duplicate-selectors": true,
     "no-eol-whitespace": true,
     "no-invalid-double-slash-comments": true,
-    "no-missing-end-of-source-newline": true,
-    "no-unknown-animations": true
-
+    "no-missing-end-of-source-newline": true
   }
 }
